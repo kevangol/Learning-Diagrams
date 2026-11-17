@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-11-17T17:22:24.547Z",
+  "count": 2,
+  "diagrams": [
+    {
+      "id": "docker-understanding-0101",
+      "title": "Docker Understanding 0101",
+      "file": "docker-understanding-0101.png",
+      "src": "/diagrams/docker-understanding-0101.png",
+      "size": 729855,
+      "updatedAt": "2026-11-17T17:12:34.155Z"
+    },
+    {
+      "id": "e-commerce-high-level-design-advanced",
+      "title": "E Commerce High Level Design Advanced",
+      "file": "e-commerce-high-level-design-advanced.png",
+      "src": "/diagrams/e-commerce-high-level-design-advanced.png",
+      "size": 2957185,
+      "updatedAt": "2026-11-17T17:12:34.179Z"
+    }
+  ]
+}
